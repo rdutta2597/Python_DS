@@ -1,2 +1,2 @@
 # Python_DS
-All kind of basic Data structures using python
+All kinds of basic Data structures using python
